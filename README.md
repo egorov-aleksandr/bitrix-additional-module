@@ -29,7 +29,7 @@
 }
 ```
 
-Packagist: https://packagist.org/packages/egorov2105/additional-options
+Packagist: https://packagist.org/packages/egorov2105/additional.options
 
 # Использование
 После установки модуля в меню административной части добавляется новый пункт. Настройки могут быть сгруппированы по разделам. В рабочем окне расположен список сайтов и сами настройки.
